@@ -1,3 +1,6 @@
+##项目介绍
+将telnet转成socket，并用xterm.js进行web使用
+
 ## 启动项目
 运行webxtermserver
 
